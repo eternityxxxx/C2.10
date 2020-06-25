@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.thx-message {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.info-block {
+  display: none;
+}
+
+.results-block {
+  display: none;
+}
+
+.vote-text {
+  font-size: 14px;
+  font-weight: bold;
+}
